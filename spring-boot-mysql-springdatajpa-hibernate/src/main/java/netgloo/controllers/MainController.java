@@ -9,9 +9,10 @@ public class MainController {
 
   @RequestMapping("/")
   @ResponseBody
-  public String index() {
-    return "Proudly handcrafted by " +
-        "<a href='http://netgloo.com/en'>Netgloo</a> :)";
+  public String index(){
+
+
+  return "Proudly handcrafted by "+"<a href='http://mail.google.com'>dxccm666</a> :贾扬帅";
   }
 
 }
